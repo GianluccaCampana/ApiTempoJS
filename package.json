@@ -1,0 +1,23 @@
+{
+  "name": "tempojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/GianluccaCampana/ApiTempoJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianluccaCampana/ApiTempoJS/issues"
+  },
+  "homepage": "https://github.com/GianluccaCampana/ApiTempoJS#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
